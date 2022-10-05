@@ -25,7 +25,6 @@ Baseado no sentimento de que sempre posso melhorar, busco a minha melhor versão
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=VisualStudioCode)
 
 <div>
   <a href="https://github.com/f3rnandorj">
